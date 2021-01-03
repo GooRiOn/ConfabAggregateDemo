@@ -1,9 +1,8 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace AggregateDemo
+namespace AggregateDemo.Version1
 {
     public class Presence
     {

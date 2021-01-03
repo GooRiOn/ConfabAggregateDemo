@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AggregateDemo
+namespace AggregateDemo.Version1
 {
     public record PresenceSlot(Guid talkId, Guid participantId, DateTime talkTime);
 }

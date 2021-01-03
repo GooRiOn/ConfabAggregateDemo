@@ -1,4 +1,5 @@
 ﻿using System;
+using AggregateDemo.Version1;
 
 namespace AggregateDemo
 {
